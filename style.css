@@ -3,4 +3,7 @@ p{
 }
 h1{
     background-color: blue;
+    color: aqua;
+    width: auto;
+    margin: auto;
 }
